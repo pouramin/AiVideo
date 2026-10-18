@@ -19,7 +19,7 @@ html[lang="fa"] h1{letter-spacing:0;line-height:1.35}html[lang="fa"] .hero h1 em
 html[lang="fa"] .eyebrow,html[lang="fa"] .destination-eyebrow{letter-spacing:0}
 html[lang="fa"] .destination-btn{direction:rtl}
 html[lang="fa"] .destination-arrow{margin-left:0;margin-right:auto}
-html[lang="fa"] .metrics{direction:rtl}
+html[lang="fa"] .metrics{direction:rtl}html[lang="fa"] .metric:nth-child(3){order:1}html[lang="fa"] .metric:nth-child(2){order:2}html[lang="fa"] .metric:nth-child(1){order:3}
 html[lang="fa"] .panel pre,html[lang="fa"] pre{direction:ltr;text-align:left;unicode-bidi:plaintext;font-family:ui-monospace,Consolas,monospace}
 html[lang="fa"] .model,html[lang="fa"] .results .row{direction:ltr;text-align:left}
 html[lang="fa"] .prompt-caption{direction:rtl}
